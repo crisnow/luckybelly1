@@ -1,0 +1,33 @@
+
+
+.ui.borderless.topmenu.menu{
+  background-color: black;
+  color: white !important;;
+  box-shadow:none;
+  border:none;
+  margin: 0px;
+  border-radius: 0px;
+  font-size:20px;
+  font-family: monospace;
+
+}
+.ui.menu .item{
+  color: white !important;;
+  font-size:20px;
+  font-family: monospace;
+
+
+}
+.ui.borderless.middle.menu{
+  box-shadow:none;
+  border:none;
+}
+
+.footer-background {
+  background-color: black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: monospace;
+
+  color: white;
+}
